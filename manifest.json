@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Feedback Filler",
+  "version": "1.0",
+  "description": "Fills teacher feedback automatically on CUOnline.",
+  "permissions": ["scripting", "activeTab"],
+  "action": {
+    "default_title": "Auto Fill Feedback"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": ["*://cuonline.cuilahore.edu.pk/*"]
+}

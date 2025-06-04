@@ -1,3 +1,4 @@
+Only for COMSATS Lahore students.
 Download and unzip the folder.
 Open extensions from chrome settings.
 Turn on Developer mode (top right).
